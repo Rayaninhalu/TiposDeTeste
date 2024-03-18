@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Caixa preta </title>
+</head>
+<body>
+<h1> Conceitos basicos dos teste de caixa preta </h1>
+<p> O analista  tem acesso ao código fonte, conhece a estrutura interna do produto sendo analisado e 
+possibilita que sejam escolhidas partes específicas de um componente para serem avaliadas. Esse tipo 
+de teste, também conhecido como teste estrutural, é projetado em função da estrutura do componente e 
+permite uma averiguação mais precisa do comportamento dessa estrutura. Perceba que o acesso ao código 
+facilita o isolamento de uma função ou ação, o que ajuda na análise comportamental das mesmas.
+</p>
+</body>
+</html>
