@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Caixa Branca </title>
+</head>
+<body>
+<h1> Conceitos basicos dos testes de caixa branca </h1>
+<p> O analista  tem acesso ao código fonte, conhece a estrutura interna do produto sendo analisado e possibilita 
+que sejam escolhidas partes específicas de um componente para serem avaliadas. Esse tipo de teste, também conhecido 
+como teste estrutural, é projetado em função da estrutura do componente e permite uma averiguação mais precisa do 
+comportamento dessa estrutura. Perceba que o acesso ao código facilita o isolamento de uma função ou ação, o que ajuda na análise comportamental das mesmas.
+
+
+</p>
+<h2> Pontos positivos  </h2>
+<p>
+<div>
+Otimização ao encontrar bugs ocultos.
+<br>Facilidade para criar testes automatizados.
+<br>Meticulosidade, uma vez que o teste de caixa branca tem como objetivo cobrir ao máximo o código. 
+
+</div>
+</p>
+<h3> Pontos negativos  </h3>
+<p>
+<div>
+Custos mais altos. 
+<br>Se o código sofrer muitas alterações pode dificultar o processo de teste automatizado.
+<br>Caso o código esteja parcialmente pronto, o teste de caixa branca poderá trazer resultados inconclusos.
+</div>
+</p>
+</body>
+</html>
