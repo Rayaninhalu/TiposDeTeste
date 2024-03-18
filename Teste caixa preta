@@ -16,12 +16,18 @@ Utilizar números negativos em campos tipo valor a pagar;
 Botões que não executam as ações devidas;
 Enfim, todo tipo de falha funcional, ou seja, falhas que contrariam os requisitos da aplicação.
 </p>
-<h1> Pontos positivos  </h1>
+<h2> Pontos positivos  </h2>
 <p> 
 -O testador não precisa ter conhecimento técnico e funcional do sistema.
--Não é necessário criar scripts.
--É possível utilizar o crowdtest.me e testar com usuários reais.
--Os casos de testes podem ser projetados assim que as especificações funcionais estiverem completas. 
+<br>-Não é necessário criar scripts.
+<br>-É possível utilizar o crowdtest.me e testar com usuários reais.
+<br>-Os casos de testes podem ser projetados assim que as especificações funcionais estiverem completas. 
+</p>
+<h3> Pontos negativos  </h3>
+<p>
+Não é possível testar segmentos complexos de códigos.
+Geralmente identifica os módulos defeituosos, mas não explica em detalhes se eles atendem ao requisito.
+Pode entregar resultados superestimados
 </p>
 </body>
 </html>
