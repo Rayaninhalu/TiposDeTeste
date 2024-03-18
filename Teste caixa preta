@@ -17,11 +17,14 @@ Botões que não executam as ações devidas;
 Enfim, todo tipo de falha funcional, ou seja, falhas que contrariam os requisitos da aplicação.
 </p>
 <h2> Pontos positivos  </h2>
-<p> 
+<p>
+<div>
 -O testador não precisa ter conhecimento técnico e funcional do sistema.
 <br>-Não é necessário criar scripts.
 <br>-É possível utilizar o crowdtest.me e testar com usuários reais.
 <br>-Os casos de testes podem ser projetados assim que as especificações funcionais estiverem completas. 
+
+</div>
 </p>
 <h3> Pontos negativos  </h3>
 <p>
