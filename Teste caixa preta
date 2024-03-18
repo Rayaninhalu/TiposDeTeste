@@ -4,12 +4,24 @@
 <title> Caixa preta </title>
 </head>
 <body>
-<h1> Conceitos basicos dos teste de caixa preta </h1>
-<p> O analista  tem acesso ao código fonte, conhece a estrutura interna do produto sendo analisado e 
-possibilita que sejam escolhidas partes específicas de um componente para serem avaliadas. Esse tipo 
-de teste, também conhecido como teste estrutural, é projetado em função da estrutura do componente e 
-permite uma averiguação mais precisa do comportamento dessa estrutura. Perceba que o acesso ao código 
-facilita o isolamento de uma função ou ação, o que ajuda na análise comportamental das mesmas.
+<h1> Conceitos basicos dos testes de caixa preta </h1>
+<p> O analista não tem acesso ao código fonte e desconhece a estrutura interna do sistema. É também
+conhecido como teste funcional, pois é baseado nos requisitos funcionais do software. O foco, nesse caso, é nos requisitos da aplicação, ou seja, nas ações que ela deve desempenhar.
+
+Para mostrar quais problemas que esse tipo de teste rastreia, podemos citar alguns exemplos:
+
+Data de nascimento preenchida com data futura;
+Campos de preenchimento obrigatório que não são validados;
+Utilizar números negativos em campos tipo valor a pagar;
+Botões que não executam as ações devidas;
+Enfim, todo tipo de falha funcional, ou seja, falhas que contrariam os requisitos da aplicação.
+</p>
+<h1> Pontos positivos  </h1>
+<p> 
+-O testador não precisa ter conhecimento técnico e funcional do sistema.
+-Não é necessário criar scripts.
+-É possível utilizar o crowdtest.me e testar com usuários reais.
+-Os casos de testes podem ser projetados assim que as especificações funcionais estiverem completas. 
 </p>
 </body>
 </html>
