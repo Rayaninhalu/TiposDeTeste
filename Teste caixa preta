@@ -28,9 +28,11 @@ Enfim, todo tipo de falha funcional, ou seja, falhas que contrariam os requisito
 </p>
 <h3> Pontos negativos  </h3>
 <p>
+<div>
 Não é possível testar segmentos complexos de códigos.
-Geralmente identifica os módulos defeituosos, mas não explica em detalhes se eles atendem ao requisito.
-Pode entregar resultados superestimados
+<br>Geralmente identifica os módulos defeituosos, mas não explica em detalhes se eles atendem ao requisito.
+<br>Pode entregar resultados superestimados
+</div>
 </p>
 </body>
 </html>
