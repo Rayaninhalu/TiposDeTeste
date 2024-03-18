@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Teste Comportamental</title>
+</head>
+<body>
+
+<h1>Teste Comportamental</h1>
+
+<p>O teste comportamental é uma estratégia de teste de software que se concentra na 
+avaliação do comportamento do sistema em resposta a determinados estímulos ou entradas. 
+Este método de teste é particularmente útil para verificar se o software está funcionando conforme
+o esperado em termos de comportamento funcional, 
+ou seja, se ele está reagindo corretamente aos diferentes cenários e inputs.</p>
+
+<p>Aqui está uma explicação mais detalhada sobre o teste comportamental:</p>
+
+<p>Definição de Comportamento Esperado: Antes de realizar o teste, é fundamental definir claramente o comportamento
+esperado do
+software em resposta a diferentes inputs ou cenários. Isso pode envolver a criação de especificações detalhadas, 
+casos de uso ou cenários de teste que descrevem como o sistema deve se comportar em diferentes situações.</p>
+
+<p>Identificação de Cenários de Teste: Com base nos requisitos e especificações do software, 
+são identificados cenários de teste que representam diferentes casos de uso ou situações que 
+o sistema pode encontrar durante o uso real. Estes cenários são projetados para cobrir uma ampla gama
+de funcionalidades e fluxos de trabalho do sistema.</p>
+
+<p>Desenvolvimento de Casos de Teste: Para cada cenário de teste identificado, são 
+desenvolvidos casos de teste que descrevem os passos necessários para reproduzir o
+comportamento esperado e verificar se o sistema está se comportando conforme o esperado.
+Isso pode envolver a definição de entradas específicas, a execução de determinadas ações e a verificação dos resultados obtidos.</p>
+
+<p>Execução do Teste: Durante a execução do teste, os casos de teste são executados no software,
+e os resultados são observados e registrados. Isso pode ser feito manualmente por testadores humanos
+ou automaticamente por ferramentas de automação de teste, dependendo da complexidade do sistema e dos cenários de teste.</p>
+
+<p>Análise dos Resultados: Após a execução do teste, os resultados são analisados para verificar
+se o comportamento do sistema está de acordo com o esperado. Isso pode envolver a identificação
+de falhas ou desvios do comportamento esperado, que são então relatados para serem corrigidos pelos desenvolvedores.</p>
+
+<p>Iteração e Melhoria: Com base nos resultados do teste, são feitas correções e melhorias no
+software para abordar quaisquer problemas identificados. Em seguida, o processo de teste pode 
+ser repetido para validar as correções e garantir que o sistema esteja se comportando conforme o esperado.</p>
+
+<p>O teste comportamental é uma abordagem importante para garantir a qualidade e
+confiabilidade do software, pois ajuda a verificar se o sistema está 
+funcionando conforme o esperado em termos de comportamento funcional e de acordo com os requisitos do usuário.</p>
+
+</body>
+</html>
