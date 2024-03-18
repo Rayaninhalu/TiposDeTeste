@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Teste de intertarefa </title>
+</head>
+<body>
+<h1> Teste de intertarefa </h1>
+<p>
+Um teste de intertarefa de software é um tipo de teste de software que avalia como o sistema responde quando várias tarefas são executadas simultaneamente ou em rápida sucessão. O objetivo principal deste teste é verificar se o software é capaz de lidar com múltiplas operações concorrentes de forma eficiente e sem erros.
+
+Durante o teste de intertarefa, os testadores geralmente executam diferentes tarefas ou cenários de teste simultaneamente para simular condições de uso do mundo real. Isso pode incluir a execução de várias funcionalidades do software ao mesmo tempo, simulação de acesso simultâneo de vários usuários ao sistema, ou até mesmo introdução de situações de sobrecarga para ver como o software reage.
+
+O teste de intertarefa é particularmente importante para sistemas que serão usados em ambientes onde é provável que múltiplos usuários estejam acessando e executando operações no sistema simultaneamente. Ele ajuda a identificar potenciais problemas de desempenho, conflitos de recursos, condições de corrida (race conditions), ou falhas de sincronização que podem ocorrer quando o software é submetido a cargas de trabalho intensas ou multitarefa.
+
+Em suma, o teste de intertarefa é uma parte essencial do processo de garantia de qualidade de software, especialmente para aplicativos e sistemas que precisam lidar com operações simultâneas ou concorrentes.
+</p>
+</body>
+</html>
